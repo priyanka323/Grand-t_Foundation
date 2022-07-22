@@ -1,40 +1,3 @@
-$.get("cards.json", function(data, status){
-    if(status=="success"){
-        var cards = data;
-        var i = 0;
-        var contentDiv = document.createElement("div");
-        $(contentDiv).addClass("content");
-        $("article").append(contentDiv);
-        while(i < posts['posts'].length){
-            var li = document.createElement("li");
-            var imgDiv = document.createElement("div");
-            $(imgDiv).addClass("img-div");
-            var dataDiv = document.createElement("div");
-            $(dataDiv).addClass("data-div");
-            var imgSrc = '<img data-src=".'+ posts['posts'][i]['img'] +'">';
-            var imgTitle = '<p class="img-title">' + posts['posts'][i]['category'] + '</p>';
-            var h3 = '<h3>' + posts['posts'][i]['title'] + '</h3>';
-            var dateTime = '<p class="date-time">' + getTime(posts['posts'][i]['datetime']) + '/ <span class="author">By : ' + posts['posts'][i]['author'].split(" ")[0] +'</span></p><p class="comment">' + posts['posts'][i]['comment_count'] + ' comment</p>';
-            var desc = '<p class="description">' + posts['posts'][i]['desc'] + '</p>';
-            // var comment = '<p class="comment"><i class="far fa-comment"></i> ' + posts['posts'][i]['comment_count'] + ' comment</p>';
-            
-            $(contentDiv).append(li);
-            $(li).append(imgDiv);
-            $(imgDiv).append(imgSrc);
-            $(imgDiv).append(imgTitle);
-            $(li).append(dataDiv);
-            $(dataDiv).append(h3);
-            $(dataDiv).append(dateTime);
-            $(dataDiv).append(desc);
-            // $(dataDiv).append(comment);
-            i++;
-        }
-        lazyLoad();
-    }
-});
-
-
-
 for(let i=1; i<=9; i++){
     let BlogBox = document.querySelector(".blog");
 
@@ -43,7 +6,7 @@ for(let i=1; i<=9; i++){
     container.innerHTML = 
     `
     <div class="img">
-        <img>
+        <img/>
         <div class="date"></div>
     </div>
     <div class="blog-info">
@@ -65,9 +28,9 @@ for(let i=1; i<=9; i++){
     </div>
     ` 
 
-    mainBox.append(container);
+    BlogBox.append(container);
 }
-fetch("")
+fetch("https://raw.githubusercontent.com/priyanka323/Grand-t_Foundation/main/cards.json")
     .then((response) => {
         return response.json()
     })
@@ -79,8 +42,12 @@ fetch("")
             document.querySelector(`.container${i} .comment span:nth-child(2)`).textContent = data[i-1].like_count
             document.querySelector(`.container${i} .comment span:nth-child(4)`).textContent = data[i-1].comment_count
             document.querySelector(`.container${i} .img img`).src = data[i-1].img
-            // document.querySelector(`.container${i} .img img`).setAttribute("src", data[i-1].img)
+            
 
             document.querySelector(`.container${i} .date`).textContent = data[i-1].date
         }
     })
+
+
+
+    
