@@ -113,7 +113,11 @@
     
 
 }
-
+.volt{
+    text-align: center;
+    padding: 1rem;
+    margin: auto;
+}
 
 .wps{
     width: 80%;
