@@ -1,96 +1,96 @@
  [
       {
         "id": 1,
-        "title": "Lorem ipsum dolor sit amet",
-        "desc": "Lorem ipsum dolor sit amet, consectetur adipicing elit. Nullam feugiat dignissim metus, id vestibulum tellus Cras ante commodo.",
-        "img": ".https://htmldemo.net/grant-foundation/grant-foundation/img/blog/blog-three.jpg",
+        "title": "Fire Fire with Fire",
+        "desc": "Donec id consequat orci. Ut rhoncus tortor lacus, sit amet mattis mauris sollicitudin at. Aliquam tincidunt eleifend metus, ac dignissim.",
+        "img": "https://media.istockphoto.com/photos/plants-irrigation-system-picture-id1173342162?k=20&m=1173342162&s=612x612&w=0&h=Ph_Y6TBcdB6oxJ4V_irzXEWpTgwegkRKgFqDCuhLQlU=",
         "date": "7 JAN",
-        "author": "Admin",
+        "author": "Balajiganapathi",
         "like_count": 10,
         "comment_count": 8  
       },
       {
         "id": 2,
-        "title": "Lorem ipsum dolor sit amet",
-        "desc": "Lorem ipsum dolor sit amet, consectetur adipicing elit. Nullam feugiat dignissim metus, id vestibulum tellus Cras ante commodo.",
-        "img": ".https://htmldemo.net/grant-foundation/grant-foundation/img/blog/blog-three.jpg",
+        "title": "Fire Fire with Fire",
+        "desc": "Donec id consequat orci. Ut rhoncus tortor lacus, sit amet mattis mauris sollicitudin at. Aliquam tincidunt eleifend metus, ac dignissim.",
+        "img": "./Images/Blog.1.jpg",
         "date": "7 JAN",
-        "author": "Admin",
+        "author": "Balajiganapathi",
         "like_count": 10,
-        "comment_count": 8 
+        "comment_count": 8  
       },
       {
         "id": 3,
-        "title": "Lorem ipsum dolor sit amet",
-        "desc": "Lorem ipsum dolor sit amet, consectetur adipicing elit. Nullam feugiat dignissim metus, id vestibulum tellus Cras ante commodo.",
-        "img": ".https://htmldemo.net/grant-foundation/grant-foundation/img/blog/blog-three.jpg",
+        "title": "Fire Fire with Fire",
+        "desc": "Donec id consequat orci. Ut rhoncus tortor lacus, sit amet mattis mauris sollicitudin at. Aliquam tincidunt eleifend metus, ac dignissim.",
+        "img": "./Images/Blog.1.jpg",
         "date": "7 JAN",
-        "author": "Admin",
+        "author": "Balajiganapathi",
         "like_count": 10,
-        "comment_count": 8 
+        "comment_count": 8  
       },
       {
         "id": 4,
-        "title": "Lorem ipsum dolor sit amet",
-        "desc": "Lorem ipsum dolor sit amet, consectetur adipicing elit. Nullam feugiat dignissim metus, id vestibulum tellus Cras ante commodo.",
-        "img": ".https://htmldemo.net/grant-foundation/grant-foundation/img/blog/blog-three.jpg",
+        "title": "Fire Fire with Fire",
+        "desc": "Donec id consequat orci. Ut rhoncus tortor lacus, sit amet mattis mauris sollicitudin at. Aliquam tincidunt eleifend metus, ac dignissim.",
+        "img": "./Images/Blog.1.jpg",
         "date": "7 JAN",
-        "author": "Admin",
+        "author": "Balajiganapathi",
         "like_count": 10,
         "comment_count": 8  
       },
       {
         "id": 5,
-        "title": "Lorem ipsum dolor sit amet",
-        "desc": "Lorem ipsum dolor sit amet, consectetur adipicing elit. Nullam feugiat dignissim metus, id vestibulum tellus Cras ante commodo.",
-        "img": ".https://htmldemo.net/grant-foundation/grant-foundation/img/blog/blog-three.jpg",
+        "title": "Fire Fire with Fire",
+        "desc": "Donec id consequat orci. Ut rhoncus tortor lacus, sit amet mattis mauris sollicitudin at. Aliquam tincidunt eleifend metus, ac dignissim.",
+        "img": "./Images/Blog.1.jpg",
         "date": "7 JAN",
-        "author": "Admin",
+        "author": "Balajiganapathi",
         "like_count": 10,
         "comment_count": 8  
       },
       {
         "id": 6,
-        "title": "Lorem ipsum dolor sit amet",
-        "desc": "Lorem ipsum dolor sit amet, consectetur adipicing elit. Nullam feugiat dignissim metus, id vestibulum tellus Cras ante commodo.",
-        "img": ".https://htmldemo.net/grant-foundation/grant-foundation/img/blog/blog-three.jpg",
+        "title": "Fire Fire with Fire",
+        "desc": "Donec id consequat orci. Ut rhoncus tortor lacus, sit amet mattis mauris sollicitudin at. Aliquam tincidunt eleifend metus, ac dignissim.",
+        "img": "./Images/Blog.1.jpg",
         "date": "7 JAN",
-        "author": "Admin",
+        "author": "Balajiganapathi",
         "like_count": 10,
-        "comment_count": 8 
+        "comment_count": 8  
       },
       {
         "id": 7,
-        "title": "Lorem ipsum dolor sit amet",
-        "desc": "Lorem ipsum dolor sit amet, consectetur adipicing elit. Nullam feugiat dignissim metus, id vestibulum tellus Cras ante commodo.",
-        "img": ".https://htmldemo.net/grant-foundation/grant-foundation/img/blog/blog-three.jpg",
+        "title": "Fire Fire with Fire",
+        "desc": "Donec id consequat orci. Ut rhoncus tortor lacus, sit amet mattis mauris sollicitudin at. Aliquam tincidunt eleifend metus, ac dignissim.",
+        "img": "./Images/Blog.1.jpg",
         "date": "7 JAN",
-        "author": "Admin",
+        "author": "Balajiganapathi",
         "like_count": 10,
-        "comment_count": 8 
+        "comment_count": 8  
       },
       {
         "id": 8,
-        "title": "Lorem ipsum dolor sit amet",
-        "desc": "Lorem ipsum dolor sit amet, consectetur adipicing elit. Nullam feugiat dignissim metus, id vestibulum tellus Cras ante commodo.",
-        "img": ".https://htmldemo.net/grant-foundation/grant-foundation/img/blog/blog-three.jpg",
+        "title": "Fire Fire with Fire",
+        "desc": "Donec id consequat orci. Ut rhoncus tortor lacus, sit amet mattis mauris sollicitudin at. Aliquam tincidunt eleifend metus, ac dignissim.",
+        "img": "./Images/Blog.1.jpg",
         "date": "7 JAN",
-        "author": "Admin",
+        "author": "Balajiganapathi",
         "like_count": 10,
-        "comment_count": 8 
+        "comment_count": 8  
       },
       {
         "id": 9,
-        "title": "Lorem ipsum dolor sit amet",
-        "desc": "Lorem ipsum dolor sit amet, consectetur adipicing elit. Nullam feugiat dignissim metus, id vestibulum tellus Cras ante commodo.",
-        "img": ".https://htmldemo.net/grant-foundation/grant-foundation/img/blog/blog-three.jpg",
+        "title": "Fire Fire with Fire",
+        "desc": "Donec id consequat orci. Ut rhoncus tortor lacus, sit amet mattis mauris sollicitudin at. Aliquam tincidunt eleifend metus, ac dignissim.",
+        "img": "./Images/Blog.1.jpg",
         "date": "7 JAN",
-        "author": "Admin",
+        "author": "Balajiganapathi",
         "like_count": 10,
-        "comment_count": 8
+        "comment_count": 8  
       }
     ]
 
-
+ 
 
 
