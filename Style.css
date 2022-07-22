@@ -1,0 +1,280 @@
+.header {
+
+}
+.primary{
+    background-color: rgb(10, 143, 143);
+    width: full;
+    height: 3rem;
+    margin: 0px;
+    padding: 0px;
+    display: flex;
+}
+
+.phn{
+    margin-left: 1rem;
+}
+
+.dropdown{
+    position: absolute;
+    margin-left: 7rem;
+}
+.txt1{
+    width: 33%;
+    margin-left: 3rem;
+    margin-right: 1rem;
+}
+.sbtn{
+    width: 33%;
+    top: 2rem;
+
+}
+
+.follow{
+    width: 50%;
+    display: inline;
+    display: flex;
+}
+.contact{
+    display: inline;
+    display: flex;
+    margin-top: 0.8rem;
+}
+
+.b1{
+    margin-top: 3rem;
+}
+
+
+.btn{
+    margin-top: 3rem;
+    margin-left: 3rem;
+    margin-right: 4rem;
+    width: 8rem;
+    height: 2rem;
+    padding: 0.8rem;
+    color: #1b7a81;
+    background-color: #1b7a81;
+    
+}
+
+.secondary{
+    background-color: rgb(245, 244, 243);
+    width: full;
+    height: 7rem;
+    margin: 0px;
+    padding: 0px;
+    display: flex;
+}
+
+.hero1{
+    width: 7rem;
+    height: 5rem;
+    margin-left: 5rem;
+    margin-top: 1rem;
+
+}
+
+.nav{
+    display: inline;
+
+}
+
+.nav li {
+    display: inline-block;
+    margin-top: 3rem;
+    padding: 10px;
+    margin-left: 2.5rem;
+  }
+
+.hero{
+    width: 1345px;
+    height: 30rem;
+}
+
+.herotxt{
+    float: center;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.arrow1{
+    float: right;
+    position: absolute;
+    right: -15%;
+    height: 2rem;
+    width: 1rem;
+    bottom: 20%;
+}
+
+.arrow2{
+    float: left;
+    position: absolute;
+    left: -15%;
+    bottom: 20%;
+}
+
+
+
+
+.vol{
+    height: 20rem;
+    display: inline;
+    align-items: center;
+    margin: 2.3rem;
+    
+    
+
+}
+.volt{
+    text-align: center;
+    padding: 1rem;
+    margin: auto;
+}
+
+.wps{
+    width: 80%;
+    height: 30rem;
+    align-items: center;
+    margin: 8rem;
+}
+.img-wps{
+    border-radius: 50%;
+    width: 35%;
+
+}
+.wpsi{
+    position: relative;
+    text-align: center;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.hrl{
+    width: 50%;
+}
+
+.footer{
+    width: 1349px;
+    background-color: hsl(0, 2%, 16%);
+    height: 20rem;
+    
+    display: flex;
+    margin-left: 0px;
+}
+.f1{
+    display: inline;
+    display: table-column;
+    color: white;
+    width: 25%;
+    margin: 10px;
+    padding: 10px;
+}
+
+.inpt{
+    margin: 10px;
+}
+
+.footer2{
+    width: 1349px;
+    height: 3rem;
+    background-color: #000000;
+    color: white;
+    display: flex;
+    
+}
+
+.footer2 p{
+    width: 80%;
+}
+
+.ic1{
+    margin: 10px;
+    display: inline;
+    padding: 10px;
+}
+.wps{
+    position: relative;
+    text-align: center;
+    color: white;
+    height: 30rem;
+   
+    
+  }
+
+  .wpst{
+    float: center;
+    position: absolute;
+    top: 230%;
+    left: 60%;
+    transform: translate(-50%, -50%);
+    padding: 20px;
+  }
+  
+ .f2b{
+    position: absolute;
+    margin-left: 67rem;
+    justify-content: space-between;
+ }
+
+
+ .footup{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin: 2rem;
+ }
+ 
+ .ici{
+    margin: 10px;
+    display: flex;
+    justify-content: space-around;
+    box-shadow: 2px;
+ }
+.cardi{
+    height: 3rem;
+    width: auto;
+    border: 20px black;
+    
+ }
+ .icn{
+    display: flex;
+    justify-content: space-between;
+    margin: 1rem;
+    margin-top: 10rem;
+ }
+
+ .volunteers{
+    align-items: center;
+    height: 30rem;
+    padding: 5rem;
+    display: flex;
+    
+
+    
+}
+
+.caraousel{
+    width: 24rem;
+}
+
+.redm{
+    display: flex;
+    position: relative;
+    margin-right: 0px;
+}
+
+.dbox{
+    height: 4.5rem;
+    width: 4.5rem;
+    background-color: #1b7a81;
+    
+    float: left;
+    position: absolute;
+    
+}
+
+.date{
+    
+}
